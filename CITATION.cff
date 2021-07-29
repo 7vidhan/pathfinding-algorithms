@@ -1,0 +1,12 @@
+# YAML 1.2
+---
+authors:
+  -
+    family-names: Saifullah
+    given-names: Khalid
+cff-version: "1.1.0"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/khalidsaifullaah/pathfinding-visualizer"
+title: "Pathfinding Visualizer"
+...

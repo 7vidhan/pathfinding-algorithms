@@ -73,6 +73,7 @@ _*Note\: The GIF images are unashamedly taken from Wikipedia as well*_
 - [Daniel Shiffman's](https://github.com/shiffman/) video resources on P5.js helped me a lot to get a clear understanding about the library.
 - [Clément Mihailescu's](https://github.com/clementmihailescu) similar project inspired me a lot for the UI and the project itself
 - [P5.js](https://p5js.org/) The library behind the viz
+- [Khalid Saifullah's](https://github.com/khalidsaifullaah) code has been used as foundation for this project
 
 
 ## You may also like...
@@ -82,9 +83,8 @@ _*Note\: The GIF images are unashamedly taken from Wikipedia as well*_
 
 ---
 
-> Stack Overflow [@khalid-saifullah](https://stackoverflow.com/users/7610724/khalid-saifullah) &nbsp;&middot;&nbsp;
-> GitHub [@khalidsaifullaah](https://github.com/khalidsaifullaah) &nbsp;&middot;&nbsp;
-> Facebook [@ikhalidsaifullaah](https://www.facebook.com/ikhalidsaifullaah/) &nbsp;&middot;&nbsp;
-> Twitter [@k_saifullaah](https://twitter.com/k_saifullaah) &nbsp;&middot;&nbsp;
-> LinkedIn [@khalidsaifullaah](https://www.linkedin.com/in/khalidsaifullaah/)
+> GitHub [@vidhankashyap](https://github.com/7vidhan) &nbsp;&middot;&nbsp;
+> Facebook [@vidhankashyap](https://www.facebook.com/vidhan.kashyap.5/) &nbsp;&middot;&nbsp;
+> Twitter [@vidhankashyap](https://x.com/CoolBoyVidhan) &nbsp;&middot;&nbsp;
+> LinkedIn [@vidhankashyap](https://www.linkedin.com/in/vidhan-kashyap-739a7b148/)
 
